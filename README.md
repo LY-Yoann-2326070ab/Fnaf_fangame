@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-FNAF-fangame">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Li0D.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-FNAF-fangame</h3>
